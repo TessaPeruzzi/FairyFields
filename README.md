@@ -27,47 +27,34 @@ There is also one quest that involves fighting a bear.
 The following assets were used in this game:
 
 Background/Main Cat Sprite Art/Cow Sprites/Garden Sprites
-https://cupnooble.itch.io/sprout-lands-asset-pack
-
+https://cupnooble.itch.io/sprout-lands-asset-pack  
 Houses/Animated Flower Art
-https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-...
-
+https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-...  
 Bear Art
-https://grafxkid.itch.io/sprite-pack-5
-
+https://grafxkid.itch.io/sprite-pack-5  
 Villager Art
-https://grafxkid.itch.io/sprite-pack-1
-
+https://grafxkid.itch.io/sprite-pack-1  
 Cat Art
-https://pop-shop-packs.itch.io/cats-pixel-asset-pack
-
+https://pop-shop-packs.itch.io/cats-pixel-asset-pack  
 Fish Icons
-https://shubibubi.itch.io/cozy-fishing (Free version)
-
+https://shubibubi.itch.io/cozy-fishing (Free version)  
 Flora Art
-https://red-baby.itch.io/sprite-pack-fantasy-female-mage
-
+https://red-baby.itch.io/sprite-pack-fantasy-female-mage  
 Main Character Human Art
-https://red-baby.itch.io/sprite-pack-female-dark-hair
-
+https://red-baby.itch.io/sprite-pack-female-dark-hair  
 Mountain Background
-https://photo-library.itch.io/wonderful-mountains
-
+https://photo-library.itch.io/wonderful-mountains  
 Main Menu/Dialogue Soundtrack/Game Over Sound
-https://joshuuu.itch.io/short-loopable-background-music
-
+https://joshuuu.itch.io/short-loopable-background-music  
 Main Game Soundtrack
-https://zakiro101.itch.io/free-casual-game-music-pack-vol-1
-
+https://zakiro101.itch.io/free-casual-game-music-pack-vol-1  
 Sound Effects
-https://kronbits.itch.io/freesfx
-
+https://kronbits.itch.io/freesfx  
 Fonts
-Bitmgothic-https://www.1001fonts.com/bitmgothic-font.html
-Manaspc-from in-class 2D platformer
-
+Bitmgothic-https://www.1001fonts.com/bitmgothic-font.html  
+Manaspc-from in-class 2D platformer  
 Dialogue Script
-https://www.youtube.com/watch?v=8oTYabhj248
+https://www.youtube.com/watch?v=8oTYabhj248  
 I referenced this script to create a dialogue system, but still highly edited it to suit my game's needs.
 
 **What I Created**  
